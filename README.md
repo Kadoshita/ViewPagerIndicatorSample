@@ -1,0 +1,2 @@
+# ViewPagerIndicatorSample
+Androidのライブラリ、ViewPagerIndicatorを使用したサンプルアプリです
